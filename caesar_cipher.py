@@ -24,3 +24,5 @@
 ## 유사 암호
 1. Shift Cipher
     - 3칸이 아닌 임의로 지정한 n칸을 움직여서 암호화를 하는 방식
+2. Monoalphabetic Cipher
+    - 각 알파벳을 임의로 지정하여 key를 모른 상태에서 암호화 하는 방식
